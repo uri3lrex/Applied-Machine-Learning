@@ -10,9 +10,9 @@ Each project follows an end-to-end data science workflow: exploratory visualisat
 
 - [Skills Demonstrated](#skills-demonstrated)
 - [Projects](#projects)
-  - [Assignment 1: Logistic Regression and Linear SVM]([#assignment-1-logistic-regression-and-linear-svm](https://github.com/uri3lrex/A1_Logistic-Regression-and-Linear-SVM))
-  - [Assignment 2: Lasso and Ridge Regression]([#assignment-2-lasso-and-ridge-regression](https://github.com/uri3lrex/A2_Lasso-and-Ridge-Regression))
-  - [Assignment 3: Classification and No-Signal Auditing]([#assignment-3-classification-and-no-signal-auditing](https://github.com/uri3lrex/A3_Classification--Model-Selection-and-Evaluation))
+  - [Assignment 1: Logistic Regression and Linear SVM](https://github.com/uri3lrex/A1_Logistic-Regression-and-Linear-SVM)
+  - [Assignment 2: Lasso and Ridge Regression](https://github.com/uri3lrex/A2_Lasso-and-Ridge-Regression)
+  - [Assignment 3: Classification and No-Signal Auditing](https://github.com/uri3lrex/A3_Classification--Model-Selection-and-Evaluation)
 - [Results Summary](#results-summary)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -102,7 +102,7 @@ Each project follows an end-to-end data science workflow: exploratory visualisat
 
    ```bash
    git clone https://github.com/uri3lrex/ML_assignments.git
-   cd applied-ml-tcd
+   cd ML_assignments
    ```
 
 2. **Install dependencies**
